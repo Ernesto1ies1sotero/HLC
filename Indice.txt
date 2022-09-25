@@ -1,6 +1,0 @@
-1. Vida antes que muerte
-<<<<<<< HEAD
-3. Viaje antes que destino
-=======
-2. Fuerza antes que debilidad
->>>>>>> devop
